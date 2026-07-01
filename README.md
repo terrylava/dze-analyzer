@@ -1,4 +1,4 @@
-use the map from the DayZ-Central-Economy-master/CETool/ChernarusPlus
+use the map from the DayZ-Central-Economy-master/CETool/ChernarusPlus  https://github.com/BohemiaInteractive/DayZ-Central-Economy
 
 add a folder of dze files, and it analyzes them, creates a circle for each build within the file. (DBSCAN within 50m). there can be multiple builds per file. elongated builds will have dotted lines instead of solid circles
 
