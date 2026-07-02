@@ -7,3 +7,6 @@ can see what builds overlap so that you can find conflicts easily. or find/remem
 for updates... run it through claude and tell it what you want to update. 
 
 free and open source. copyleft 2026
+
+visual studio community dev console build command:
+/EHsc /O2 dze_analyzer(4).cpp /link gdiplus.lib comdlg32.lib gdi32.lib user32.lib shell32.lib ole32.lib
